@@ -12,7 +12,7 @@
 - **Node.js**: Construção de APIs.
 
 ## 🏅 Projetos e Certificados:
-Visite meu site/blog para ver meus projetos e certificados: [Blog(Em breve)](link-do-seu-site)
+📁 Visite meu site/blog para ver meus projetos e certificados: [Blog(Em breve)](link-do-seu-site)
 
 ## 👨‍💻 Tudo que estou estudando:
 <br />
