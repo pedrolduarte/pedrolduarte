@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
 
 👋 Olá, eu sou o Pedro! 👨‍💻☕️ Aqui eu aprimoro minhas habilidades no desenvolvimento de software! <br />
-<hr>
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #ff00cc, #3333ff); box-shadow: 0 0 10px #ff00cc, 0 0 20px #ff00cc, 0 0 30px #3333ff;">
 <div style="text-align: center;">
     <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
 </div>
