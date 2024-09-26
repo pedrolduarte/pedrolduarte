@@ -3,7 +3,10 @@
 
 👋 Olá, eu sou o Pedro! 👨‍💻☕️ Aqui eu aprimoro minhas habilidades no desenvolvimento de software! <br />
 
-![GIF do Giphy](https://giffiles.alphacoders.com/296/2965.gif)
+<div style="text-align: center;">
+    <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
+</div>
+
 
 👨‍💻 Tudo que estou estudando:
 <br />
