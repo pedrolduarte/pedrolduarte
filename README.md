@@ -14,7 +14,7 @@
 ## 🏅 Projetos e Certificados:
 Visite meu site/blog para ver meus projetos e certificados: [Blog(Em breve)](link-do-seu-site)
 
-## Tecnologias que estou aprendendo:
+## 👨‍💻 Tudo que estou estudando:
 <br />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
