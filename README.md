@@ -7,6 +7,16 @@
     <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
 </div>
 
+## Tecnologias em que me destaco:
+- **Java**: Desenvolvimento de aplicações backend com **Spring**.
+- **JavaScript/TypeScript**: Desenvolvimento frontend com **Angular**.
+- **Node.js**: Construção de APIs.
+
+## Projetos e Certificados
+Visite meu site/blog para ver meus projetos e certificados: [Seu Site/Blog](link-do-seu-site)
+
+## Contato
+- Email: upedrolucas10@gmail.com
 
 👨‍💻 Tudo que estou estudando:
 <br />
