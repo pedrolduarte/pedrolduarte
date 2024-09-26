@@ -11,11 +11,10 @@
 - **JavaScript/TypeScript**: Desenvolvimento frontend com **Angular**.
 - **Node.js**: Construção de APIs.
 
-## 🏅 Projetos e Certificados
+## 🏅 Projetos e Certificados:
 Visite meu site/blog para ver meus projetos e certificados: [Blog(Em breve)](link-do-seu-site)
 
-<h2 style="position: relative; margin-bottom: 10px;">Tecnologias que estou aprendendo:</h2>
-<hr style="border: none; height: 2px; background-color: #ff00cc; box-shadow: 0 0 5px #ff00cc, 0 0 10px #ff00cc;">
+## Tecnologias que estou aprendendo:
 <br />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
