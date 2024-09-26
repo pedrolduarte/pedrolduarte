@@ -7,6 +7,8 @@
     <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
 </div>
 
+<hr>
+
 ## Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **JavaScript/TypeScript**: Desenvolvimento frontend com **Angular**.
