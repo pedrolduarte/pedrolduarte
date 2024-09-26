@@ -3,7 +3,7 @@
 
 👋 Olá, eu sou o Pedro! 👨‍💻☕️ Aqui eu aprimoro minhas habilidades no desenvolvimento de software! <br />
 
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="300" height="auto" alt="Descrição do GIF" />
+<img src="[https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpudG1rdHo3MnJuemh2bWJsdHc5bHVsOWoydXZiZjkwNTlta3E0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp)" width="300" height="auto" alt="Descrição do GIF" />
 
 👨‍💻 Tudo que estou estudando:
 <br />
