@@ -1,4 +1,4 @@
-# Pedro Duarte
+# Pedro Lucas Duarte
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
 👋 Olá, eu sou o Pedro! 👨‍💻☕️ Aqui eu aprimoro minhas habilidades no desenvolvimento de software! <br />
 ##
@@ -6,12 +6,12 @@
     <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
 </div>
 
-## Tecnologias em que me destaco:
+## ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **JavaScript/TypeScript**: Desenvolvimento frontend com **Angular**.
 - **Node.js**: Construção de APIs.
 
-## Projetos e Certificados
+## 🏅 Projetos e Certificados
 Visite meu site/blog para ver meus projetos e certificados: [Seu Site/Blog](link-do-seu-site)
 
 ## 👨‍💻 Tudo que estou estudando:
