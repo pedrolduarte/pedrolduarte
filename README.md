@@ -9,10 +9,11 @@
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **JavaScript/TypeScript**: Desenvolvimento frontend com **Angular**.
 - **Node.js**: Construção de APIs.
+
 ## Projetos e Certificados
 Visite meu site/blog para ver meus projetos e certificados: [Seu Site/Blog](link-do-seu-site)
-##
-👨‍💻 Tudo que estou estudando:
+
+## 👨‍💻 Tudo que estou estudando:
 <br />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
