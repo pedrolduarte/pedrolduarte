@@ -1,7 +1,7 @@
-# Pedro Lucas Duarte
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
+# Pedro Lucas Duarte [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
+
 👋 Olá, eu sou o Pedro! 👨‍💻☕️ Aqui eu aprimoro minhas habilidades no desenvolvimento de software! <br />
-##
+
 <div style="text-align: center;">
     <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="Descrição do GIF" />
 </div>
