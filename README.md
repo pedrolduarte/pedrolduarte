@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Bem Vindo! Eu sou Pedro Duarte
 
-<!--
-**pedrolduarte/pedrolduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolduarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolduarte&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![MTA:SA](https://img.shields.io/badge/MTA:SA-FFA500?style=for-the-badge&logo=gamepad&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+<img src="https://media.tenor.com/_2Lus1kwcn4AAAAM/alan-wake-2-alan-wake.gif" width="120px" align="right" />
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nRQJ52wwuR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroldu)
