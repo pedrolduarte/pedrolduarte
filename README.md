@@ -1,8 +1,8 @@
 # 👋 Bem Vindo! Eu sou Pedro Duarte
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolduarte&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+💻 Programador Freelancer focado em **MTA:SA**, **Lua**, **JavaScript** e **Sistemas de Informação**.  
+🚀 Sempre aprendendo, sempre criando.
 
 ---
 
