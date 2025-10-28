@@ -9,9 +9,8 @@
 <div align="left">
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MTA:SA](https://img.shields.io/badge/MTA:SA-FFA500?style=for-the-badge&logo=gamepad&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F46E5?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
